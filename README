@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fopenjdk-jdk11.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fopenjdk-jdk11?ref=badge_shield)
+
 
 Welcome to the JDK!
 ===================
@@ -10,3 +12,7 @@ of the source code, please see either of these files:
 
 See http://openjdk.java.net/ for more information about the OpenJDK
 Community and the JDK.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fopenjdk-jdk11.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fjeffdinotoriverbed%2Fopenjdk-jdk11?ref=badge_large)
